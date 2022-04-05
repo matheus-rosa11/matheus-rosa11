@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 <h3 align="left">💻 Languages and Tools:</h3>
 <div>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank" width="40" height="40">
+    <img src= "https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" target="_blank" width="40" height="40">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" target="blank" width="40" height="40">
+    <img src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4" target="blank" width="40" height="40">
 </div>
 
 <h3 align="left">📚 Currently studying:</h3>
