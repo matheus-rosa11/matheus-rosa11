@@ -32,6 +32,6 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" target="_blank" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" target="_blank" width="40" height="40">
     <img src="https://i2.wp.com/info.widespace.com/wp-content/uploads/2016/03/javascript-shield-logo.png?ssl=1" target="_blank" width="38" height="35">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank" width="40" height="40">
+    <img src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4" target="blank" width="40" height="40">
 </div>
 <br>
