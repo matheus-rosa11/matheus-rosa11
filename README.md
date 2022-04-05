@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hello, I'm Matheus</h1>
-<h3 align="center">Currently studying at <a href="https://www.sptech.school">SPTech</a> on Analysis, Development and Integration of Systems</h3>
+<h3 align="center">Currently a student at <a href="https://www.sptech.school">SPTech</a> on Analysis, Development and Integration of Systems</h3>
 
-<h3 align="left">📚 Currently studying:</h3>
+<h3 align="left">📚 Studying:</h3>
  <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" target="_blank" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" target="_blank" width="40" height="40">
