@@ -16,4 +16,19 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hello, I'm Matheus</h1>
-<h3 align="center">I'm currently studying at <a href="https://www.sptech.school">SPTech</a> on Analysis, Development and Integration of Systems</h3>
+<h3 align="center">Currently studying at <a href="https://www.sptech.school">SPTech</a> on Analysis, Development and Integration of Systems</h3>
+
+<h3 align="left">💻 Languages and Tools:</h3>
+<div>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank" width="40" height="40">
+</div>
+
+<h3 align="left">📚 Currently studying:</h3>
+ <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" target="_blank" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" target="_blank" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" target="_blank" width="40" height="40">
+    <img src="https://i2.wp.com/info.widespace.com/wp-content/uploads/2016/03/javascript-shield-logo.png?ssl=1" target="_blank" width="38" height="35">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank" width="40" height="40">
+</div>
+<br>
