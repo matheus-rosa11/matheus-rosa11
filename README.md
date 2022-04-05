@@ -27,3 +27,9 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" target="_blank" width="40" height="40">
 </div>
 <br>
+<div>
+  <a href="https://github.com/matheus-rosa11">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheus-rosa11&show_icons=true&theme=dracula&title_color=0AFEFF&include_all_commits=true&count_private=true"/>
+    
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-rosa11&layout=compact&langs_count=7&theme=dracula&title_color=0AFEFF"/>
+</div>
