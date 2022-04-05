@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 **matheus-rosa11/matheus-rosa11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hello, I'm Matheus</h1>
+<h3 align="center">I'm currently studying at <a href="https://www.sptech.school">SPTech</a> on Analysis, Development and Integration of Systems</h3>
