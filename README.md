@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
  <h3 align="left">Connect with me:</h3>
 <div>
-  <a href="mailto:matheus.rosa@sptech.school" target="_blank">
+  <a href="mailto:matheus.rosa@sptech.school" target="_blank" rel="external">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>  
   <a href="https://www.instagram.com/ma.theuszz/" target="_blank">
