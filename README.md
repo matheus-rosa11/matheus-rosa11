@@ -33,3 +33,16 @@ Here are some ideas to get you started:
     
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-rosa11&layout=compact&langs_count=7&theme=dracula&title_color=0AFEFF"/>
 </div>
+
+ <h3 align="left">Connect with me:</h3>
+<div>
+  <a href="mailto:matheus.rosa@sptech.school" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a>  
+  <a href="https://www.instagram.com/ma.theuszz/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-da-silva-rosa-603348225/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
