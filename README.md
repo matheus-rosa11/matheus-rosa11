@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hello, I'm Matheus, future systems analyst and developer!</h2>
+<h2 align="center">Hello!! I'm Matheus, future systems analyst and developer!</h2>
 <h3 align="center">Currently a student at <a href="https://www.sptech.school">SPTech</a> on Analysis, Development and Integration of Systems</h3>
 
 <h3 align="left">📚 Studying:</h3>
