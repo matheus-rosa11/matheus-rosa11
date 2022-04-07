@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 <br>
 <div>
   <a href="https://github.com/matheus-rosa11">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheus-rosa11&show_icons=true&theme=react&title_color=57BCD9&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheus-rosa11&show_icons=true&theme=vue-dark&title_color=388B6E&include_all_commits=true&count_private=true"/>
     
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-rosa11&layout=compact&langs_count=7&theme=react&title_color=57BCD9"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-rosa11&layout=compact&langs_count=7&theme=vue-dark&title_color=388B6E"/>
 </div>
 
  <h3 align="left">Connect with me:</h3>
