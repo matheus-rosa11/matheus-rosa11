@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hello!! I'm Matheus Rosa, student in Systems Analysis and Development at <a href="http://www.sptech.school">SPTech</a></h2>
+<h2 align="center">Hello!! I'm <b>Matheus Rosa<b>, student in Systems Analysis and Development at <a href="http://www.sptech.school">SPTech</a></h2>
 
 <h3 align="left">📚 Studying:</h3>
  <div>
