@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/matheus-rosa11">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheus-rosa11&show_icons=true&theme=calm&title_color=0AFEFF&include_all_commits=true&count_private=true"/>
     
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-rosa11&layout=compact&langs_count=7&theme=calm&title_color=C5715D"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-rosa11&layout=compact&langs_count=7&theme=calm&title_color=D97D66"/>
 </div>
 
  <h3 align="left">Connect with me:</h3>
