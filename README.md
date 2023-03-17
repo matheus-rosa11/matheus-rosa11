@@ -38,7 +38,7 @@ Here are some ideas to get you started:
    
    <br>
     
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-rosa11&layout=compact&langs_count=7&theme=gotham&title_color=1DE0BC"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/layout=compact&langs_count=7&theme=gotham&title_color=1DE0BC"/>
 </div>
  
  <h3 align="left">Connect with me:</h3>
