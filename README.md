@@ -31,14 +31,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" target="_blank" width="40" height="40">
 </div> -->
 <br>
-<div>
-  <a href="https://github.com/matheus-rosa11">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheus-rosa11&show_icons=true&theme=gotham&title_color=1DE0BC&include_all_commits=false&count_private=true"/>
-   
-   <br>
-    
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-rosa11&layout=compact&langs_count=7&theme=gotham&title_color=1DE0BC"/>
-</div>
+
 
  <h3 align="left">Connect with me:</h3>
 <div>
