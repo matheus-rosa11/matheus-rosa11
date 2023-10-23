@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2 align="left">Hello<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Matheus Rosa!</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheus-rosa11&color=blue" alt="Profile views" /> </p>
 
-- C# Developer Intern & Systems Analysis and Development Student
+- C# Developer & Systems Analysis and Development Student
 - Currently working at [ALFA ERP Systems (SAP Business One)](https://alfaerp.com.br/)
 - Studying at [SPTech](http://www.sptech.school)
 
